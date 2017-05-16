@@ -4,3 +4,5 @@
       
       <platform>x64</platform>
 new change of file index.txt
+
+some text
